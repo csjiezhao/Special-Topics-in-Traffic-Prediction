@@ -13,5 +13,9 @@
 3. GridTuner: Reinvestigate Grid Size Selection for Spatiotemporal Prediction Models, *__ICDE 2022__*, [paper](https://ieeexplore.ieee.org/abstract/document/9835688)
 
 ### Social Media
-
+1. Combining time-series and textual data for taxi demand prediction in event areas: A deep learning approach
+2. Text-to-Trafﬁc Generative Adversarial Network for Trafﬁc Situation Generation
+3. From Twitter to trafﬁc predictor: Next-day morning trafﬁc prediction using social media data
+4. Improving Traffic Load Prediction with Multi-modality
+5. Traffic-Twitter Transformer: A Nature Language Processing-joined Framework For Network-wide Traffic Forecasting
 ### Privacy
