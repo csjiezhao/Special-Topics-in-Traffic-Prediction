@@ -18,4 +18,6 @@
 3. From Twitter to trafﬁc predictor: Next-day morning trafﬁc prediction using social media data
 4. Improving Traffic Load Prediction with Multi-modality
 5. Traffic-Twitter Transformer: A Nature Language Processing-joined Framework For Network-wide Traffic Forecasting
+6. 基于社会媒体数据增强的交通态势感知研究及进展 
+
 ### Privacy
