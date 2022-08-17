@@ -1,5 +1,5 @@
 ### Uncertainty Quantification
-1. Quantifying Uncertainty in Short-term Traffic Prediction and Its Application to Optimal Staffing Plan Development, *__Transportation Research Part C 2018__*, [paper](https://www.sciencedirect.com/science/article/pii/S0968090X18306545)
+1. Quantifying Uncertainty in Short-term Traffic Prediction and Its Application to Optimal Staffing Plan Development, *__TRP-C 2018__*, [paper](https://www.sciencedirect.com/science/article/pii/S0968090X18306545)
 2. Quantifying Uncertainty in Deep Spatiotemporal Forecasting, *__arXiv 2021__*, [paper](https://arxiv.org/abs/2105.11982)
 3. Variational Graph Neural Networks for Road Traffic Prediction in Intelligent Transportation Systems, *__IEEE TII 2021__*, [paper](https://ieeexplore.ieee.org/abstract/document/9140389)
 4. STUaNet: Understanding Uncertainty in Spatiotemporal Collective Human Mobility, *__WWW 2021__*, [paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449817)
