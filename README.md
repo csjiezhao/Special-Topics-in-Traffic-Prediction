@@ -7,11 +7,6 @@
 6. Quantifying Uncertainty In Traffic State Estimation Using Generative Adversarial Networks, *__arXiv 2022__*, [paper](https://arxiv.org/abs/2206.09349)
 7. Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks, *__arXiv 2022__*, [paper](https://arxiv.org/abs/2208.05908)
 
-### Space Partition
-1. Improving Urban Crowd Flow Prediction on Flexible Region Partition, *__IEEE-TMC 2019__*, [paper](https://ieeexplore.ieee.org/abstract/document/8807281)
-2. Grids Versus Graphs: Partitioning Space for Improved Taxi Demand-Supply Forecasts, *__IEEE TITS 2021__*, [paper](https://ieeexplore.ieee.org/abstract/document/9099450)
-3. GridTuner: Reinvestigate Grid Size Selection for Spatiotemporal Prediction Models, *__ICDE 2022__*, [paper](https://ieeexplore.ieee.org/abstract/document/9835688)
-
 ### Social Media
 1. Combining time-series and textual data for taxi demand prediction in event areas: A deep learning approach
 2. Text-to-Trafﬁc Generative Adversarial Network for Trafﬁc Situation Generation
